@@ -2,7 +2,6 @@
 
 ## 🎓 About Me
 - 🎓 B.Tech in Computer Science @ VIT Bhopal (Expected 2027)
-- 💼 Incoming SDE Intern @ Aarki (AdTech)
 - 🔭 Building real-time ad personalization systems
 - 🌱 Exploring Machine Learning & Backend Engineering
 - 📍 Based in Jhansi, Uttar Pradesh
